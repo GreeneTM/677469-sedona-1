@@ -250,6 +250,7 @@ a {
 
 .header-filter {
   width: 100%;
+	background-color: #000000;
   background-image: url("../img/filter-background.jpg");
   background-position: top center;
   background-repeat: no-repeat;
@@ -257,7 +258,7 @@ a {
 }
 
 .forms {
-    padding-left: 6%;
+	padding-left: 6%;
   padding-right: 6%;
 }
 
